@@ -2,4 +2,5 @@ raw/
 dead/
 *.py
 .*.lock
-backup/*.txt
+backup/
+*.pyc
